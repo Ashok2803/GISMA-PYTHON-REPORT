@@ -1,0 +1,4 @@
+Customer_ID,Name,Email,Phone,Address,Account_Count,Total_Balance,Member_Since
+CUST0001,Alice Johnson,alice.johnson@example.com,+1-555-0123,"123 Maple Street, Townsville",2,4520.75,2024-01-15
+CUST0002,Brian Lee,brian.lee@example.com,+1-555-0456,"456 Oak Avenue, Cityburg",1,1360.5,2024-03-02
+CUST0003,Carmen Patel,carmen.patel@example.com,+1-555-0789,"789 Pine Road, Villageton",3,9240.0,2023-11-22
